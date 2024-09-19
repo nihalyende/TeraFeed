@@ -51,15 +51,3 @@ TeraFeed represents a significant advancement in the fight against hunger in Afr
 <img src="./screenshots/1.jpg" width="60%" /> <br>
 <img src="./screenshots/2.png" width="60%" />
 
-## Contributions <a id="contributions"></a>
-
-![Alt](https://repobeats.axiom.co/api/embed/eb49c5f9d64d6573ac564d31714f31a75194d8a0.svg "Repobeats analytics image")
-
-## Contributors <a id="contributors"></a>
-  - [Hayden Cordeiro](https://hayden.co.in/)<br>
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haydencordeiro/)
-  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haydencordeiro)
-
-- [Jivin Varghese Porthukaran](https://jivin.co.in/)<br>
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JivinVarghese/)
-  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JivinVarghese)
